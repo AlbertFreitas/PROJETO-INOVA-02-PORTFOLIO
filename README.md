@@ -2,7 +2,7 @@
 
 
 <h1 align="center">
-<a href="=" target="_blank">💻📰Veja Sobre</a>
+<a href="https://albertfreitas.github.io/PROJETO-INOVA-02-PORTFOLIO/" target="_blank">💻📰Veja Sobre</a>
 
 <p align="center">🚀 Portfólio sobre mim Albert Freitas, mostrando minhas qualificações e habilidades!</p>
 
