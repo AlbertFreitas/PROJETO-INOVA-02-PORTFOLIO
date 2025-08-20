@@ -2,7 +2,7 @@
 
 This is my personal portfolio, a fully responsive single-page application designed to showcase my skills, projects, and journey as a Full Stack Developer. It was initially developed as a challenge for Inova Maranhão and has since evolved into my professional hub.
 
-**Live Demo:** **[albert-freitas.vercel.app](https://albert-freitas.vercel.app/)**
+**Live Demo:** **[albert-freitas.vercel.app](https://projeto-inova-02-portfolio.vercel.app/#home)**
 
 ![Screenshot of the portfolio homepage](./screenshot.png) 
 ---
